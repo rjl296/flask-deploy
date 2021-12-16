@@ -1,0 +1,2 @@
+Hello World!
+echo "Hello World!" > static/hello-world.txt
